@@ -1,5 +1,5 @@
 # Trabajo Practico #3
-Agustin montiveros
+Agustin Montiveros
 
 ## Script 1
 
